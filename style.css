@@ -1,24 +1,43 @@
-.container{
+.container {
   margin: auto;
-  width: 90%;
+  width: 80%;
 }
 
-nav{
+nav {
   background: #2e2d2c;
 }
 
-header{
-
+header {
+  /*border: 3px solid black;*/
+  height: 27em;
+  background-image: url(./images/header-img.jpg);
+  z-index: 2;
 }
 
-a{
-  color:white;
+a {
+  color: white;
   text-decoration: none;
-
-
 }
 
-img{
+img {
   width: 2em;
+}
 
+#section_outside {
+  margin: auto;
+  width: 90%;
+  z-index: 1;
+  position: relative;
+  bottom: 3em;
+  background-color: #fef9ed;
+}
+
+#section_inside {
+  
+}
+
+article{
+  margin: auto;
+  width: 90%;
+  border: 1px solid black;
 }
