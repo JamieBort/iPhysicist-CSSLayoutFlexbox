@@ -30,4 +30,4 @@ Learn more about the [Google fonts API](https://fonts.google.com/?selection.fami
 
 [Source File](https://tiy-learn-content.s3.amazonaws.com/830262dc-iphys-starter-file.zip)
 
-![](images/7ca567a4-iPhysicist.png)
+![](images/iPhysicist.png)
