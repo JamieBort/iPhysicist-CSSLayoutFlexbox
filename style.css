@@ -4,8 +4,6 @@
   clear: both;
 }
 
-
-
 .container {
   margin: auto;
   width: 80%;
@@ -38,29 +36,25 @@ img {
   position: relative;
   bottom: 3em;
   background-color: #fef9ed;
-  border: 2px solid blue;
+  display: flex;
+  /*justify-content: space-around;*/
 }
 
-#section_inside {
-  float: left;
-  border: 1px solid black;
-}
-
-#three{
-  float: right;
-  /*margin: auto;
-  width: 90%;*/
-  border: 1px solid black;
-}
-
-#article_one{
+#section_left {
   border: 1px solid red;
 }
 
-#article_two{
-  border: 1px solid green;
+#section_right {
+  justify-content: flex-end;
+  border: 3px solid green;
 }
 
-#article_three{
-  border: 1px solid blue;
+.article{
+  border: 1px solid black;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  background-color: #333333;
 }
