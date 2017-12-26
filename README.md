@@ -1,3 +1,10 @@
+TODO
+
+- [ ] 1. Redo assignment.
+- [ ] 2. Clean up directory - delete old files, etc.
+- [ ] 3. Push to master.
+- [ ] 4. Push to gh-pages.
+
 from: https://newline.theironyard.com/cohorts/15/courses/9/projects/40
 
 ## Description

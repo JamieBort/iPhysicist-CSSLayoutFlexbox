@@ -17,9 +17,35 @@ body{
     margin: 0;
     background-color: #eeebda;
 }
+nav {
+  background-color: #3d4352;
+}
+nav ul {
+  display: flex;
+justify-content:space-around;
+  list-style-type: none;
+}
+nav a {
+  color: white;
+}
+header {
+  background-image: url("../images/header-img.jpg");
+  height: 30em;
+  width: 80%;
+  margin: auto;
+  /* object-fit:fill; */
+}
+header section {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
 h1, h2, h3{
     font-family: "Josefin Sans", sans-serif;
     margin-top: 0;
+}
+h3 {
+  color: white;
 }
 img{
     max-width: 100%;
@@ -113,6 +139,8 @@ main{
         - Flexbox: Set the starting width of this element
         - Use relative positioning to bump this upward
     */
+width: 70%;
+margin: auto;
 }
 aside{
     padding: 20px;
@@ -178,4 +206,8 @@ article footer p{
         TODO:
         - Style the site footer
     */
+}
+footer span {
+  display: flex;
+  justify-content: center;
 }
