@@ -1,9 +1,11 @@
 TODO
 
 - [ ] 1. Redo assignment.
+  - [ ] a. Make sure the shadow wraps around the background of the main section.
 - [ ] 2. Clean up directory - delete old files, etc.
 - [ ] 3. Push to master.
-- [ ] 4. Push to gh-pages.
+- [ ] 4. Create gh-pages.
+- [ ] 5. Push to gh-pages.
 
 from: https://newline.theironyard.com/cohorts/15/courses/9/projects/40
 
