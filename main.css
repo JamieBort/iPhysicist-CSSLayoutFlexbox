@@ -198,8 +198,17 @@ main {
   justify-content: flex-start;
 }
 
-.one {
+.top_div {
   display:flex;
+  border: 1px dashed black;
+  padding:1em;
+}
+
+.bottom_div {
+  display:flex;
+  display:block;
+  border: 1px dashed green;
+  padding:1em;
 }
 
 .item {
@@ -211,14 +220,20 @@ main {
 }
 
 .item div {
-  display: flex;
-  flex-direction: row;
+  /* display: flex; */
+  /* flex-direction: row; */
   /* border: 1px solid blue; */
 }
 
 .icon-wrapper {
   border: 1px solid blue;
   padding: .5em;
+}
+
+.a {
+  border: 1px solid blueviolet;
+  padding: .5em;
+  width: 40em;
 }
 
 .fa {
