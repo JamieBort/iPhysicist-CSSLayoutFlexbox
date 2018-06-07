@@ -50,7 +50,7 @@ nav a {
 }
 
 header {
-  background-image: url("../images/header-img.jpg");
+  background-image: url("./images/header-img.jpg");
   height: 30em;
   /* background-size: contain; */
   background-repeat: no-repeat;
@@ -248,25 +248,25 @@ main {
 }
 
 #dino {
-  background-image: url("../images/dino.jpg");
+  background-image: url("./images/dino.jpg");
   background-size: cover;
   height: 12em;
 }
 
 #jupiter {
-  background-image: url("../images/pia21776.jpg");
+  background-image: url("./images/pia21776.jpg");
   background-size: cover;
   height: 12em;
 }
 
 #ndgt {
-  background-image: url("../images/ndgt.jpg");
+  background-image: url("./images/ndgt.jpg");
   background-size: cover;
   height: 12em;
 }
 
 #sls-rocket {
-  background-image: url("../images/sls-rocket.jpg");
+  background-image: url("./images/sls-rocket.jpg");
   background-size: cover;
   height: 12em;
 }
@@ -296,7 +296,7 @@ aside {
 }
 
 .auth-pic div {
-  background-image: url("../images/author.jpg");
+  background-image: url("./images/author.jpg");
   height: 10em;
   width: 10em;
   border-radius: 20em;
