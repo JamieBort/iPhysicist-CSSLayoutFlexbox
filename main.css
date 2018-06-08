@@ -216,6 +216,7 @@ main {
   margin: 1em;
   border: 1px dashed aqua;
   padding: 1em;
+  min-height: 25em;
   
 }
 
@@ -252,6 +253,11 @@ main {
 
 .blog-img {
   border: 2px solid violet;
+  width: 40%;
+  float: right;
+  /* top:1em;
+  position: relative; */
+  margin: 1em;
 }
 
 .entry-title {
@@ -260,6 +266,11 @@ main {
 
 .primary-txt {
   border: 1px solid darkred;
+}
+
+.bottom_div .primary-txt {
+  /* background-color: #333; */
+  /* width: 50%; */
 }
 
 #dino {
