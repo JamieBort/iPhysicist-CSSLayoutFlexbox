@@ -1,11 +1,18 @@
-TODO
+# iPhysicist
+
+## To Do
 
 - [ ] 1. Redo assignment.
   - [ ] a. Make sure the shadow wraps around the background of the main section.
+  - [ ] b. Design for responsivness.
+    - [ ] i. mobile
+    - [ ] ii. tablet
+    - [ ] iii. desktop
 - [ ] 2. Clean up directory - delete old files, etc.
 - [ ] 3. Push to master.
 - [ ] 4. Create gh-pages.
 - [ ] 5. Push to gh-pages.
+
 
 from: https://newline.theironyard.com/cohorts/15/courses/9/projects/40
 
