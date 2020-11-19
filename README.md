@@ -8,6 +8,7 @@
     - [ ] i. mobile
     - [ ] ii. tablet
     - [ ] iii. desktop
+  - [ ] c. The <aside> tag is too tall. It should be only as tall as the text needs it to be.
 - [ ] 2. Clean up directory - delete old files, etc.
 - [ ] 3. Push to master.
 - [ ] 4. Create gh-pages.

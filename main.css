@@ -307,10 +307,12 @@ aside {
         - Use relative positioning to bump this upward
     */
     /* display: flex; */
-    justify-content: flex-end;
+    /* justify-content: flex-end; */
     /* margin: 5em; */
     /* width: 90%; */
     width: 200em;
+    /* height: 100em; */
+    /* height: 50%; */
 }
 
 .auth-pic  {
